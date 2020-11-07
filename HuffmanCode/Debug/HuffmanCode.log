@@ -1,0 +1,16 @@
+﻿  HuffmanCode.cpp
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(49,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(129,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(206,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(243,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(248,17): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(256,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(264,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(273,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(278,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(282,46): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(267,8): warning C4101: “ch”: 未引用的局部变量
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(322,33): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(325,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\VisualStudio\SourceCode\HuffmanCode\HuffmanCode\HuffmanCode.cpp(350,20): warning C4018: “<”: 有符号/无符号不匹配
+  HuffmanCode.vcxproj -> F:\VisualStudio\SourceCode\HuffmanCode\Debug\HuffmanCode.exe
